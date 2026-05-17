@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "funny-word-generator"
-version = "0.1.0"
+version = "0.1.1"
 description = "Генератор смешных и нелепых слов с оценкой 'забавности'"
 authors = [{name = "Eiztrips"}]
 readme = "README.md"
